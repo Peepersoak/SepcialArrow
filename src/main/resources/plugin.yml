@@ -1,0 +1,7 @@
+name: SpecialArrows
+version: ${project.version}
+main: com.peepersoak.specialarrows.SpecialArrows
+api-version: 1.18
+description: Test Project
+commands:
+  specialarrow:
